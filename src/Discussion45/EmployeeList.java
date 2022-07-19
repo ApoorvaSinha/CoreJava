@@ -96,6 +96,7 @@ public class EmployeeList {
 		
 		emp.forEach(System.out::println);
 		System.out.println(emp.get(0).equals(emp.get(2)));
+		System.out.println();
 
 	}
 
